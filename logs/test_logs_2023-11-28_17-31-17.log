@@ -1,0 +1,15 @@
+2023-11-28 17:31:17,190 - INFO - Setting up the class with DB connection code
+2023-11-28 17:31:17,190 - INFO - Setting up the test case - browser open
+2023-11-28 17:31:19,669 - INFO - Actual Title of snapdeal.com : Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items
+2023-11-28 17:31:19,669 - INFO - Expected Title of snapdeal.com : Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items
+2023-11-28 17:31:19,677 - INFO - test_snap_deal_title False
+2023-11-28 17:31:19,687 - INFO - Exception: 'Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items...' not found in 'Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items'
+2023-11-28 17:31:19,688 - INFO - Tearing down the test case - browser close
+2023-11-28 17:31:21,762 - INFO - Tearing down the class with DB connection closure
+2023-11-28 17:31:21,762 - INFO - Setting up the class with DB connection code
+2023-11-28 17:31:21,762 - INFO - Setting up the test case - browser open
+2023-11-28 17:31:26,046 - INFO - Actual Title of amazon.in : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-11-28 17:31:26,046 - INFO - Expected Title of amazon.in : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-11-28 17:31:26,059 - INFO - test_amazon_title True
+2023-11-28 17:31:26,059 - INFO - Tearing down the test case - browser close
+2023-11-28 17:31:32,186 - INFO - Tearing down the class with DB connection closure
